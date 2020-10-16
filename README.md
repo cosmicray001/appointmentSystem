@@ -22,3 +22,13 @@ i. In the list table admin should able to see the client name, phone, Car
 registration number, appointment date, and mechanic name.
 b. If admin wants he can change the date of appointment and also the assigned
 mechanic name with any other available mechanic for any specific client.
+#### Reg panel
+![image](https://github.com/cosmicray001/appointmentSystem/blob/master/github_img/a002.png)
+#### Log in:
+![image](https://github.com/cosmicray001/appointmentSystem/blob/master/github_img/a001.png)
+
+#### User panel
+![image](https://github.com/cosmicray001/appointmentSystem/blob/master/github_img/a003.png)
+![image](https://github.com/cosmicray001/appointmentSystem/blob/master/github_img/a004.png)
+#### Admin panel
+![image](https://github.com/cosmicray001/appointmentSystem/blob/master/github_img/a005.png)
