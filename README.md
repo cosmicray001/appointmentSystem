@@ -23,17 +23,17 @@ registration number, appointment date, and mechanic name.
 b. If admin wants he can change the date of appointment and also the assigned
 mechanic name with any other available mechanic for any specific client.
 #### Reg panel
-![image](https://github.com/cosmicray001/appointmentSystem/blob/master/github_img/a002.png)
+![image](https://github.com/cosmicray001/appointmentSystem/blob/master/github_img/a002.png)<br>
 At first one have to sign up in this system to get the membership.
 #### Log in:
-![image](https://github.com/cosmicray001/appointmentSystem/blob/master/github_img/a001.png)
+![image](https://github.com/cosmicray001/appointmentSystem/blob/master/github_img/a001.png)<br>
 Andmin and user have to use the same lon in panel but their UI will be different.
 
 #### User panel
-![image](https://github.com/cosmicray001/appointmentSystem/blob/master/github_img/a003.png)
+![image](https://github.com/cosmicray001/appointmentSystem/blob/master/github_img/a003.png)<br>
 In user panel, one user can book slot which is not already booked by other user.
-![image](https://github.com/cosmicray001/appointmentSystem/blob/master/github_img/a004.png)
+![image](https://github.com/cosmicray001/appointmentSystem/blob/master/github_img/a004.png)<br>
 To book a slot, one have to select a date then under that date free slot and booked shlot will be show. Then by clicking the free slot one can book the slot.
 #### Admin panel
-![image](https://github.com/cosmicray001/appointmentSystem/blob/master/github_img/a005.png)
+![image](https://github.com/cosmicray001/appointmentSystem/blob/master/github_img/a005.png)<br>
 In admin panel, admin will be able to see all the booked and non-booked slot and clients info. Moreover, andmin can delete and change slot.
